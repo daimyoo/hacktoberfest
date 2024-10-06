@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Daim Yo](https://github.com/daimyoo)
+- Place: Detroit, Michigan
+- Bio: Web 3 developer, Beats, Code, Life
+- Github: [daimyoo](https://github.com/daimyoo)
